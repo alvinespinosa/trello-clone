@@ -1,0 +1,82 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "title": "Board 1"
+    },
+    {
+      "id": 2,
+      "title": "Board 2"
+    },
+    {
+      "id": 3,
+      "title": "Board 3"
+    },
+    {
+      "id": 4,
+      "title": "Board 4"
+    },
+    {
+      "title": "test",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "try\n"
+    },
+    {
+      "id": 7,
+      "title": "ooooo"
+    },
+    {
+      "id": 8,
+      "title": "hhrhwhwH"
+    },
+    {
+      "id": 9,
+      "title": "FSAFSFG"
+    },
+    {
+      "id": 10,
+      "title": "FAFASFSF"
+    },
+    {
+      "id": 11,
+      "title": "testttttt"
+    }
+  ],
+  "cards": [
+    {
+      "title": "card 1",
+      "statusId": 1,
+      "boardId": 1,
+      "order": 1
+    },
+    {
+      "title": "card 2",
+      "statusId": 2,
+      "boardId": 1,
+      "order": 1
+    },
+    {
+      "title": "card 3",
+      "statusId": 3,
+      "boardId": 1,
+      "order": 1
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "title": "Todo"
+    },
+    {
+      "id": 2,
+      "title": "In Progress"
+    },
+    {
+      "id": 2,
+      "title": "Done"
+    }
+  ]
+}
